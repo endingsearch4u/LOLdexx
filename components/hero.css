@@ -1,0 +1,24 @@
+.hero-hero {
+  position: relative;
+}
+.hero-container {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.hero-hero-heading {
+  max-width: 800px;
+  text-align: center;
+}
+.hero-hero-sub-heading {
+  font-size: 18px;
+  text-align: center;
+}
+.hero-btn-group {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
